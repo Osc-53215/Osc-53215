@@ -1,4 +1,4 @@
-### Hola, I'm Oscar Colon! 👋
+## Hola, I'm Oscar Colon! 👋
 
 - 🔭 I’m currently working on UBER clone.
 - 🌱 I’m currently learning REACT NATIVE, Tailwind CSS and Google Autocomplete.
