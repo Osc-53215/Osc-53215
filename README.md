@@ -1,5 +1,9 @@
 ## Hola, I'm Oscar Colon! 👋
 
+![enter image description here](https://github-readme-stats.vercel.app/api?username=Osc-53215&&show_icons=true&title_color=f5d560&icon_color=&text_color=c7c8c8&bg_color=151515)
+
+##
+
 - 🔭 I’m currently working on UBER clone.
 - 🌱 I’m currently learning REACT NATIVE, Tailwind CSS and Google Autocomplete.
 - 👯 I’m looking to collaborate on Youtube.
@@ -10,8 +14,6 @@
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I enjoy meetin new people and Travleing!
-
-![enter image description here](https://github-readme-stats.vercel.app/api?username=Osc-53215&&show_icons=true&title_color=f5d560&icon_color=&text_color=c7c8c8&bg_color=151515)
 
 ## Technologies currently using
 
