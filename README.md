@@ -1,4 +1,4 @@
-## Hola, I'm Oscar Colon !  👋
+## Hola, I'm Oscar Colon !    👋
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=Osc-53215&&show_icons=true&title_color=f5d560&icon_color=&text_color=c7c8c8&bg_color=151515)
 
