@@ -4,8 +4,8 @@
 
 ##
 
-- 🔭 I’m currently working on UBER clone
-- 🌱 I’m currently learning REACT NATIVE, Tailwind CSS and Google Autocomplete
+- 🔭 I’m currently working on Selenium
+- 🌱 I’m currently learning Python, selenium
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with C# and Python
 - 💬 Ask me about React or any tech related stuff
